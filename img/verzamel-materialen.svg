@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195.133" height="195.134" viewBox="0 0 195.133 195.134">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc087;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.69;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #ccc;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #ff9147;
+      }
+
+      .cls-7 {
+        fill: #b3b3b3;
+      }
+
+      .cls-10, .cls-8 {
+        opacity: 0.5;
+      }
+
+      .cls-9 {
+        opacity: 0.45;
+        isolation: isolate;
+      }
+
+      .cls-10, .cls-11 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-dasharray: 3;
+      }
+
+      .cls-10 {
+        stroke: #ff9147;
+      }
+
+      .cls-11 {
+        stroke: #000;
+      }
+
+      .cls-12 {
+        filter: url(#Ellipse_132);
+      }
+    </style>
+    <filter id="Ellipse_132" x="0" y="0" width="195.133" height="195.134" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdec1"/>
+      <stop offset="1" stop-color="#806f61" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_731" data-name="Group 731" transform="translate(-622.433 -1054.871)">
+    <g id="Group_661" data-name="Group 661" transform="translate(599.015 1025.453)">
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, 23.42, 29.42)">
+        <circle id="Ellipse_132-2" data-name="Ellipse 132" class="cls-1" cx="88.567" cy="88.567" r="88.567" transform="translate(9 3)"/>
+      </g>
+      <circle id="Ellipse_143" data-name="Ellipse 143" class="cls-2" cx="88.567" cy="88.567" r="88.567" transform="translate(32.418 209.551) rotate(-90)"/>
+    </g>
+    <g id="Group_687" data-name="Group 687" transform="translate(31.251 958.85)">
+      <path id="Path_677" data-name="Path 677" class="cls-3" d="M628.334,137.651a2.268,2.268,0,1,0,2.266,2.266A2.267,2.267,0,0,0,628.334,137.651Zm0,4.005a1.738,1.738,0,1,1,1.736-1.739A1.74,1.74,0,0,1,628.334,141.656Z"/>
+      <path id="Path_678" data-name="Path 678" class="cls-3" d="M681.665,136.15a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,681.665,136.15Zm0,2.651a1.15,1.15,0,1,1,1.149-1.151A1.152,1.152,0,0,1,681.665,138.8Z"/>
+      <path id="Path_679" data-name="Path 679" class="cls-3" d="M755.784,210.061a2.267,2.267,0,1,0,2.266,2.265A2.267,2.267,0,0,0,755.784,210.061Zm0,4a1.737,1.737,0,1,1,1.736-1.74A1.741,1.741,0,0,1,755.784,214.066Z"/>
+      <rect id="Rectangle_606" data-name="Rectangle 606" class="cls-3" width="2.51" height="2.51" transform="translate(619.447 199.906) rotate(-45)"/>
+      <rect id="Rectangle_607" data-name="Rectangle 607" class="cls-3" width="1.349" height="1.349" transform="translate(672.091 256) rotate(-45)"/>
+      <g id="Group_686" data-name="Group 686">
+        <g id="Group_684" data-name="Group 684">
+          <path id="Rectangle_608" data-name="Rectangle 608" class="cls-4" d="M3.222,0H54.63a3.222,3.222,0,0,1,3.222,3.222V18.429a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V3.222A3.222,3.222,0,0,1,3.222,0Z" transform="translate(669.264 162.152)"/>
+          <rect id="Rectangle_609" data-name="Rectangle 609" class="cls-4" width="66.017" height="17.657" rx="1.054" transform="translate(665.712 184.199)"/>
+          <rect id="Rectangle_610" data-name="Rectangle 610" class="cls-5" width="34.225" height="30.532" rx="1.707" transform="translate(682.861 182.58)"/>
+          <rect id="Rectangle_611" data-name="Rectangle 611" class="cls-6" width="30.87" height="27.539" rx="1.707" transform="translate(684.539 184.076)"/>
+          <path id="Path_680" data-name="Path 680" class="cls-7" d="M734.446,177.919v19.167a.76.76,0,0,1-.76.76h-6.1a.759.759,0,0,1-.759-.76v-7.438a.76.76,0,0,0-.76-.76H670.821a.759.759,0,0,0-.759.76v7.438a.76.76,0,0,1-.76.76h-6.1a.759.759,0,0,1-.759-.76V177.919a3.013,3.013,0,0,1,3.013-3.013h65.979A3.013,3.013,0,0,1,734.446,177.919Z"/>
+          <rect id="Rectangle_612" data-name="Rectangle 612" class="cls-8" width="14.299" height="2.624" rx="0.937" transform="translate(698.17 198.88)"/>
+          <rect id="Rectangle_613" data-name="Rectangle 613" class="cls-8" width="10.799" height="2.624" rx="0.937" transform="translate(698.17 203.235)"/>
+          <rect id="Rectangle_614" data-name="Rectangle 614" class="cls-8" width="2.624" height="2.624" rx="0.937" transform="translate(720.989 180.649)"/>
+          <rect id="Rectangle_615" data-name="Rectangle 615" class="cls-9" width="2.624" height="2.624" rx="0.937" transform="translate(720.989 176.946)"/>
+        </g>
+        <g id="Group_685" data-name="Group 685">
+          <rect id="Rectangle_616" data-name="Rectangle 616" class="cls-5" width="49.714" height="64.471" rx="6.126" transform="translate(648.73 156.147)"/>
+          <rect id="Rectangle_617" data-name="Rectangle 617" class="cls-6" width="43.074" height="55.861" rx="3.586" transform="translate(652.049 160.452)"/>
+          <rect id="Rectangle_618" data-name="Rectangle 618" class="cls-8" width="20.769" height="3.812" rx="1.875" transform="translate(658.428 167.724)"/>
+          <rect id="Rectangle_619" data-name="Rectangle 619" class="cls-8" width="15.687" height="3.812" rx="1.875" transform="translate(658.428 174.049)"/>
+          <rect id="Rectangle_620" data-name="Rectangle 620" class="cls-10" width="30.596" height="23.945" transform="translate(658.817 184.709)"/>
+          <path id="Path_681" data-name="Path 681" class="cls-11" d="M659.416,196.764"/>
+          <line id="Line_7" data-name="Line 7" class="cls-10" y2="21.759" transform="translate(673.726 185.802)"/>
+          <line id="Line_8" data-name="Line 8" class="cls-10" x2="27.888" transform="translate(659.924 196.681)"/>
+        </g>
+        <rect id="Rectangle_621" data-name="Rectangle 621" class="cls-3" width="2.51" height="2.51" transform="translate(723.156 155.039) rotate(-45)"/>
+      </g>
+    </g>
+  </g>
+</svg>
