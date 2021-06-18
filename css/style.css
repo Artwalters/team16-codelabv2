@@ -1,0 +1,584 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    background-color: rgb(248, 248, 248);
+    line-height: 1.3;
+}
+
+.clear {
+    clear: both;
+}
+
+button {
+    text-transform: uppercase;
+    background-color: red;
+    padding: 10px 20px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+    border-radius: 25px;
+    font-weight: bolder;
+    border-style: none;
+    cursor: pointer;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+button.contact {
+    border-radius: 0px;
+}
+
+.contact {
+    margin-bottom: -5px;
+    width: 50px;
+    height: 30px;
+}
+
+/* ////////header//////////// */
+
+header {
+    display: block;
+    max-width: 100%;
+    height: 900px;
+    margin-top: -1px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/hero-page.svg);
+}
+
+.container {
+    max-width: 1100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+    margin-top: -1rem;
+    margin-left: 3rem;
+}
+
+header li {
+    display: inline;
+    padding-right: 1rem;
+    float: right;
+}
+
+header ul {
+    text-align: center;
+    padding-top: 2.5rem;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+/* ////////showcase/////////// */
+
+/* ////////hero-page/////////// */
+
+.hero-container {
+    max-width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+}
+
+.hero-page p {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 2rem;
+}
+
+.svg {
+    position: relative;
+    display: block;
+    left: 0%;
+}
+
+/* ////////////////main-styles///////////////// */
+
+main {
+    margin-top: 10rem;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+main section {
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.line {
+    display: block;
+    background-color: red;
+    width: 60px;
+    border-radius: 25%;
+    height: 3px;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
+
+/* ///////////main-section-hoe-werkt-het/////////// */
+
+.drie-grid {
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+}
+
+.grid-3-colums {
+    margin: 5rem auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.grid-container {
+    width: 300px;
+}
+
+.hoe-werkt-het-text-container {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.hoe-werkt-het-text-container p {
+    padding-top: 1rem;
+    font-size: 24px;
+}
+
+/* ///////////main-section-kies-een-workshop/////////// */
+
+.workshop-container {
+    max-width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.blok {
+    display: block;
+    max-width: 800px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 5rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.workshop-left {
+    float: left;
+}
+
+.workshop-right {
+    float: right;
+    margin-right: -10px;
+}
+
+h3 {
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.workshop-text-container-right {
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+}
+
+.workshop-text-container-left {
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+}
+
+.workshops p {
+    line-height: 1.3;
+    font-size: 18px;
+}
+
+.workshops button {
+    position: relative;
+    right: 10px;
+    top: 300px;
+    color: white;
+}
+
+.robot button {
+    background-image: url(../img/gradient-button-yellow.svg);
+}
+
+.website button {
+    background-image: url(../img/gradient-button-pink.svg);
+}
+
+.universum button {
+    background-image: url(../img/gradient-button.svg);
+}
+
+/* ///////////main-section-waarom-coderen?/////////// */
+
+.waarom-coderen {
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color: bisque;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.waarom-coderen {
+    text-align: center;
+}
+
+/* ///////////main-section-de-crew?/////////// */
+
+.de-crew .grid-container {
+    display: block;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+.de-crew .grid-container .img-container {
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    border-radius: 25px 25px 0 0;
+    background-image: cover;
+    background-repeat: no-repeat;
+}
+
+.merel {
+    background-image: url(../img/merel-img-scaled.jpg);
+}
+
+.izabela {
+    background-image: url(../img/izabela.jpg);
+}
+
+.arthur {
+    background-image: url(../img/arthur.jpg);
+}
+
+/* ///////////footer/////////// */
+
+footer {
+    max-width: 100vw;
+    height: 800px;
+    margin-top: -200px;
+    background-size: cover;
+    background-image: url(../img/footer-bg-main.svg);
+}
+
+footer h2 {
+    display: block;
+    padding-top: 20rem;
+    color: white;
+    font-size: 80px;
+}
+
+.socials-container {
+    display: block;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 5rem;
+    background-color: violet;
+}
+
+.socials {
+    float: left;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.footersubtext {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+footer button {
+    background-color: red;
+    color: white;
+}
+
+/* ///////////////main-responsive///////////////// */
+
+@media only screen and (max-width: 800px) {
+    header {
+        background-image: url(../img/gradient-bg-800width.svg);
+        width: 100vw;
+    }
+    header li {
+        display: inline;
+        padding-right: 50px;
+        float: right;
+        font-size: 16px;
+    }
+    .logo {
+        display: none;
+    }
+    h1 {
+        font-size: 100px;
+    }
+    .hero-page p {
+        font-size: 18px;
+    }
+    /* //////workshop///// */
+    .blok {
+        display: block;
+        max-width: 400px;
+        height: 800px;
+    }
+    .workshop-left, .workshop-right {
+        border-radius: 25px 25px 25px 25px;
+    }
+    /* //////waarom-coderen ///// */
+    .waarom-coderen img {
+        width: 150px;
+        height: 150px;
+    }
+    /* //////waarom-coderen ///// */
+    .small-blok {
+        width: 150px;
+        height: 150px;
+        margin-left: 3rem;
+    }
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+
+/* //////////////////////////////////workshop-page/////////////////////////////////// */
+
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+
+/* //////////////////////heropage-workshop////////////////////////////// */
+
+.workshop-pagina h1 {
+    font-size: 100px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: -3rem;
+}
+
+.workshop-pagina header {
+    display: block;
+    width: 100vw;
+    max-height: 90%;
+    background-image: url(../img/workshop-hero-page.svg)
+}
+
+/* //////////////////////De-workshop///////////////////////////// */
+
+.blok400 {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.blok-img-bubbel {
+    width: 400px;
+    height: 400px;
+    background-image: url(../img/bubbel-galaxy.svg);
+}
+
+.blok-img-planeet {
+    width: 400px;
+    height: 400px;
+    background-image: url(../img/download-planeet.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 97%;
+}
+
+.text-wrapper {
+    width: 275px;
+    text-align: left;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.text-wrapper button {
+    display: block;
+    background-image: url(../img/gradient-button.svg);
+    color: white;
+    margin: 3rem auto;
+}
+
+.icon-set-wrapper {
+    width: 200px;
+    height: 80px;
+    margin-top: 2rem;
+}
+
+.klokje {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/klokje.svg);
+}
+
+.ster {
+    position: relative;
+    top: -10px;
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/ster.svg);
+}
+
+.info-workshop {
+    position: relative;
+    left: 45px;
+    top: -25px;
+}
+
+.info-workshop1 {
+    position: relative;
+    left: 45px;
+    top: -35px;
+}
+
+/* //////////////////////lespakket///////////////////////////// */
+
+/* ///////////////Tutorials/////////////////// */
+
+video.promo {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    margin-top: 6rem;
+    border-radius: 20px;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    margin-top: 7rem;
+    border-radius: 20px;
+}
+
+.videoinfo-container {
+    margin: 0 auto;
+    width: 800px;
+    margin-top: 1rem;
+}
+
+/* ////////////////////////footer///////////////////////// */
+
+.workshop-pagina footer {
+    max-width: 100%;
+    height: 800px;
+    margin-top: 200px;
+    background-size: cover;
+    background-image: url(../img/green-gradient-footer.svg);
+}
+
+@media only screen and (max-width: 1000px) {
+    body.workshop {
+        font-size: 16px;
+    }
+    section.tutorials {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    section.tutorials p {
+        color: black;
+    }
+    .tutorial-previeuw-right {
+        left: 150px;
+    }
+    .tutorial-previeuw-left {
+        right: 382px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .lespakket-right {
+        width: 300px;
+        height: 300px;
+    }
+    .lespakket-text-container-left {
+        width: 250px;
+        float: right;
+        margin-right: 2rem;
+    }
+    .lespakket h3 {
+        font-size: 2rem;
+    }
+    .subtext-tut {
+        display: none;
+    }
+    video.promo {
+        width: 700px;
+    }
+    video {
+        width: 700px;
+    }
+    .videoinfo-container {
+        width: 700px;
+    }
+    .workshop-hero h1 {
+        font-size: 60px;
+        max-width: 700px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .workshop-hero h1 {
+        font-size: 50px;
+        max-width: 500px;
+    }
+    video.promo {
+        width: 500px;
+    }
+    video {
+        width: 500px;
+    }
+    .videoinfo-container {
+        width: 500px;
+    }
+    @media only screen and (max-width: 500px) {
+        video.promo {
+            width: 400px;
+        }
+        video {
+            width: 400px;
+        }
+        .videoinfo-container {
+            width: 400px;
+        }
+    }
+}
